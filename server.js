@@ -1,4 +1,4 @@
-const app_url = "https://eggplant-glitter-spinach.glitch.me";
+const app_url = "https://rich-pig-55.deno.dev";
 const express = require("express");
 const app = express();
 const port = 3000;
